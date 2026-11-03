@@ -49,14 +49,6 @@ A free, 24/7 global community I founded for people who want to keep growing:
 | [**KeyVault.NetCore.POC**](https://github.com/VishalCodingNinja/KeyVault.NetCore.POC) | Reading secrets safely from Azure Key Vault in .NET | .NET · Azure |
 | [**WebApiHMACAuthentication**](https://github.com/VishalCodingNinja/WebApiHMACAuthentication) | HMAC request signing for ASP.NET Web API | C# |
 
-## 🐍 My contributions, eaten by a snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalCodingNinja/VishalCodingNinja/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalCodingNinja/VishalCodingNinja/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/VishalCodingNinja/VishalCodingNinja/output/github-snake-dark.svg" width="100%" alt="Animated snake eating my GitHub contribution graph" />
-</picture>
-
 <p align="center">
   <i>"Small daily improvements create extraordinary long-term results."</i><br/><br/>
   <img src="https://komarev.com/ghpvc/?username=VishalCodingNinja&label=Profile%20views&color=3776ab&style=flat" alt="Profile views" />
