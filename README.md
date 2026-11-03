@@ -9,7 +9,16 @@
   <a href="https://buymeacoffee.com/the_growthclub"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
-<img src="assets/about.svg" width="100%" alt="About me: Cloud Engineer at baramundi software in Germany, working with Azure, AKS, KEDA, ArgoCD and Terraform, building AI agents, MCP tools and RAG, coding in C#/.NET, Angular, TypeScript and Python, founder of The Growth Club" />
+### 👋 About me
+
+I'm a **Cloud Engineer in Germany** 🇩🇪. I build secure apps on **Azure and Kubernetes**, create **AI agents**, and teach **Python for free** to beginners.
+
+- 🔭 **Now:** Software Engineer, Cloud Products at **baramundi software** (Augsburg)
+- 🌿 **Side project:** founder of **The Growth Club**, a free community for code, languages and philosophy
+- 💬 **Ask me about:** cloud architecture, AI agents, or getting started with Python
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/vishal-s-694502112/)
+
+<img src="assets/highlights.svg" width="100%" alt="Highlights: 7+ years building cloud software, 7 certifications, led teams of 5 to 6 developers, 2,000+ community members. What I do: cloud platforms, AI agents, security first, lead and teach." />
 
 ## 🛠️ Tech I work with
 
