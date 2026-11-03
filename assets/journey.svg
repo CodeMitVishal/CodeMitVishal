@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Career journey: C-DAC 2018, Euromonitor 2018–2020, RDA Labs 2020–2023, MBA IUBH Berlin 2024–2025, baramundi software 2025 to now, founded The Growth Club 2025">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#3776ab"/><stop offset=".6" stop-color="#7cc4ff"/><stop offset="1" stop-color="#ffd43b"/></linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: "Segoe UI", Ubuntu, "Helvetica Neue", Arial, sans-serif; }
+    .track { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 3s ease-in-out .3s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .m { opacity: 0; animation: pop .5s cubic-bezier(.2,1.4,.4,1) forwards; }
+    @keyframes pop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: none; } }
+    .m { transform-box: fill-box; transform-origin: center; }
+    .m1 { animation-delay: .5s; } .m2 { animation-delay: 1s; } .m3 { animation-delay: 1.5s; }
+    .m4 { animation-delay: 2s; } .m5 { animation-delay: 2.5s; } .m6 { animation-delay: 3s; }
+    .now { animation: pulse 2s ease-out 3.4s infinite; transform-box: fill-box; transform-origin: center; opacity: 0; }
+    @keyframes pulse { 0% { opacity: .7; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .track { stroke-dashoffset: 0; } .m { opacity: 1; } }
+  </style>
+
+  <rect x="1" y="1" width="1198" height="398" rx="20" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text class="sans" x="40" y="50" fill="#e6edf3" font-size="24" font-weight="800">🚀 My journey</text>
+  <text class="sans" x="1160" y="50" text-anchor="end" fill="#8b949e" font-size="16">India → Germany ✈️</text>
+
+  <line x1="100" y1="220" x2="1100" y2="220" stroke="#30363d" stroke-width="6" stroke-linecap="round"/>
+  <line class="track" x1="100" y1="220" x2="1100" y2="220" stroke="url(#line)" stroke-width="6" stroke-linecap="round" pathLength="1000"/>
+
+  <g class="sans">
+    <!-- 1 above -->
+    <g class="m m1">
+      <circle cx="100" cy="220" r="12" fill="#3776ab" stroke="#0d1117" stroke-width="4"/>
+      <line x1="100" y1="206" x2="100" y2="170" stroke="#30363d" stroke-width="2"/>
+      <rect x="20" y="78" width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+      <text x="100" y="104" text-anchor="middle" fill="#7cc4ff" font-size="15" font-weight="800">2018</text>
+      <text x="100" y="130" text-anchor="middle" fill="#e6edf3" font-size="18" font-weight="800">C-DAC</text>
+      <text x="100" y="154" text-anchor="middle" fill="#8b949e" font-size="14">PG Diploma, Bangalore</text>
+    </g>
+    <!-- 2 below -->
+    <g class="m m2">
+      <circle cx="300" cy="220" r="12" fill="#3776ab" stroke="#0d1117" stroke-width="4"/>
+      <line x1="300" y1="234" x2="300" y2="270" stroke="#30363d" stroke-width="2"/>
+      <rect x="210" y="270" width="180" height="104" rx="14" fill="#161b22" stroke="#30363d"/>
+      <text x="300" y="296" text-anchor="middle" fill="#7cc4ff" font-size="15" font-weight="800">2018 – 2020</text>
+      <text x="300" y="322" text-anchor="middle" fill="#e6edf3" font-size="18" font-weight="800">Euromonitor</text>
+      <text x="300" y="344" text-anchor="middle" fill="#8b949e" font-size="14">.NET Full-Stack Dev</text>
+      <text x="300" y="364" text-anchor="middle" fill="#ffd43b" font-size="13" font-weight="700">★ Champion of the Month</text>
+    </g>
+    <!-- 3 above -->
+    <g class="m m3">
+      <circle cx="500" cy="220" r="12" fill="#5a9bd5" stroke="#0d1117" stroke-width="4"/>
+      <line x1="500" y1="206" x2="500" y2="170" stroke="#30363d" stroke-width="2"/>
+      <rect x="410" y="66" width="180" height="104" rx="14" fill="#161b22" stroke="#30363d"/>
+      <text x="500" y="92" text-anchor="middle" fill="#7cc4ff" font-size="15" font-weight="800">2020 – 2023</text>
+      <text x="500" y="118" text-anchor="middle" fill="#e6edf3" font-size="18" font-weight="800">RDA Labs</text>
+      <text x="500" y="140" text-anchor="middle" fill="#8b949e" font-size="14">Full-Stack Team Lead</text>
+      <text x="500" y="160" text-anchor="middle" fill="#ffd43b" font-size="13" font-weight="700">★ Top Performer</text>
+    </g>
+    <!-- 4 below -->
+    <g class="m m4">
+      <circle cx="700" cy="220" r="12" fill="#7cc4ff" stroke="#0d1117" stroke-width="4"/>
+      <line x1="700" y1="234" x2="700" y2="270" stroke="#30363d" stroke-width="2"/>
+      <rect x="610" y="270" width="180" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+      <text x="700" y="296" text-anchor="middle" fill="#7cc4ff" font-size="15" font-weight="800">2024 – 2025</text>
+      <text x="700" y="322" text-anchor="middle" fill="#e6edf3" font-size="18" font-weight="800">MBA · IUBH Berlin</text>
+      <text x="700" y="346" text-anchor="middle" fill="#8b949e" font-size="14">IT Project Management</text>
+    </g>
+    <!-- 5 above -->
+    <g class="m m5">
+      <circle cx="900" cy="220" r="12" fill="#b8d96e" stroke="#0d1117" stroke-width="4"/>
+      <line x1="900" y1="206" x2="900" y2="170" stroke="#30363d" stroke-width="2"/>
+      <rect x="810" y="78" width="180" height="92" rx="14" fill="#161b22" stroke="#7cc4ff" stroke-opacity=".6"/>
+      <text x="900" y="104" text-anchor="middle" fill="#7ee2a8" font-size="15" font-weight="800">2025 → now</text>
+      <text x="900" y="130" text-anchor="middle" fill="#e6edf3" font-size="18" font-weight="800">baramundi</text>
+      <text x="900" y="154" text-anchor="middle" fill="#8b949e" font-size="14">Cloud Engineer, Augsburg</text>
+    </g>
+    <!-- 6 below -->
+    <g class="m m6">
+      <circle class="now" cx="1100" cy="220" r="12" fill="#ffd43b"/>
+      <circle cx="1100" cy="220" r="12" fill="#ffd43b" stroke="#0d1117" stroke-width="4"/>
+      <line x1="1100" y1="234" x2="1100" y2="270" stroke="#30363d" stroke-width="2"/>
+      <rect x="1000" y="270" width="180" height="92" rx="14" fill="#161b22" stroke="#ffd43b" stroke-opacity=".7"/>
+      <text x="1090" y="296" text-anchor="middle" fill="#7ee2a8" font-size="15" font-weight="800">2025 → now</text>
+      <text x="1090" y="322" text-anchor="middle" fill="#e6edf3" font-size="18" font-weight="800">The Growth Club 🌿</text>
+      <text x="1090" y="346" text-anchor="middle" fill="#8b949e" font-size="14">Founder</text>
+    </g>
+  </g>
+</svg>
