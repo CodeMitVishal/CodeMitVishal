@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-s-694502112/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@TheGrowthClubOfficial"><img src="https://img.shields.io/badge/YouTube-The%20Growth%20Club-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@CodeMitVishal"><img src="https://img.shields.io/badge/YouTube-CodeMitVishal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: CodeMitVishal" /></a>
   <a href="https://discord.com/servers/tgc-english-politics-philosophy-religion-24-7-vc-1386265102050787409"><img src="https://img.shields.io/badge/Discord-Join%202k%2B%20learners-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://buymeacoffee.com/the_growthclub"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
@@ -43,7 +43,7 @@ A free, 24/7 global community I founded for people who want to keep growing:
 
 | | |
 |---|---|
-| 🐍 **Learn Python** | Free *Python Foundations* course on [YouTube](https://www.youtube.com/@TheGrowthClubOfficial), with code, exercises and quizzes in [python-foundations](https://github.com/VishalCodingNinja/python-foundations) |
+| 🐍 **Learn Python** | Free *Python Foundations* course on [YouTube (CodeMitVishal)](https://www.youtube.com/@CodeMitVishal), with code, exercises and quizzes in [python-foundations](https://github.com/VishalCodingNinja/python-foundations) |
 | 🎙️ **Talk & learn** | 2,000+ members on [Discord](https://discord.com/servers/tgc-english-politics-philosophy-religion-24-7-vc-1386265102050787409): language practice, study rooms and weekly debates |
 | 💼 **Follow** | [The Growth Club on LinkedIn](https://www.linkedin.com/company/thegrowthclubofficial) |
 
