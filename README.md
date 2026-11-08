@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/vishal-s-694502112/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@CodeMitVishal"><img src="https://img.shields.io/badge/YouTube-CodeMitVishal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: CodeMitVishal" /></a>
   <a href="https://discord.com/servers/tgc-english-politics-philosophy-religion-24-7-vc-1386265102050787409"><img src="https://img.shields.io/badge/Discord-Join%202k%2B%20learners-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://buymeacoffee.com/the_growthclub"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+  <a href="https://buymeacoffee.com/codemitvishal"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
 ### 👋 About me
