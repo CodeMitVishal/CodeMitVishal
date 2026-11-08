@@ -43,7 +43,7 @@ A free, 24/7 global community I founded for people who want to keep growing:
 
 | | |
 |---|---|
-| 🐍 **Learn Python** | Free *Python Foundations* course on [YouTube (CodeMitVishal)](https://www.youtube.com/@CodeMitVishal), with code, exercises and quizzes in [python-foundations](https://github.com/VishalCodingNinja/python-foundations) |
+| 🐍 **Learn Python** | Free *Python Foundations* course on [YouTube (CodeMitVishal)](https://www.youtube.com/@CodeMitVishal), with code, exercises and quizzes in [python-foundations](https://github.com/CodeMitVishal/python-foundations) |
 | 🎙️ **Talk & learn** | 2,000+ members on [Discord](https://discord.com/servers/tgc-english-politics-philosophy-religion-24-7-vc-1386265102050787409): language practice, study rooms and weekly debates |
 | 💼 **Follow** | [The Growth Club on LinkedIn](https://www.linkedin.com/company/thegrowthclubofficial) |
 
@@ -51,12 +51,12 @@ A free, 24/7 global community I founded for people who want to keep growing:
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**python-foundations**](https://github.com/VishalCodingNinja/python-foundations) | Free beginner Python course: 30 demos, 7 exercises, quizzes and slides | Python |
-| [**UniLingual**](https://github.com/VishalCodingNinja/UniLingual.Api) | One tool for all tongues | TypeScript |
-| [**DebateLeadToSolution**](https://github.com/VishalCodingNinja/DebateLeadToSolution.UI) | Online portal to debate society's problems, built as micro UIs on 3 microservices ([API](https://github.com/VishalCodingNinja/DebateLeadToSolution.API)) | Angular · .NET |
-| [**GangOfFour.DesignPatterns**](https://github.com/VishalCodingNinja/GangOfFour.DesignPatterns) | The classic Gang of Four design patterns in C# | C# |
-| [**KeyVault.NetCore.POC**](https://github.com/VishalCodingNinja/KeyVault.NetCore.POC) | Reading secrets safely from Azure Key Vault in .NET | .NET · Azure |
-| [**WebApiHMACAuthentication**](https://github.com/VishalCodingNinja/WebApiHMACAuthentication) | HMAC request signing for ASP.NET Web API | C# |
+| [**python-foundations**](https://github.com/CodeMitVishal/python-foundations) | Free beginner Python course: 30 demos, 7 exercises, quizzes and slides | Python |
+| [**UniLingual**](https://github.com/CodeMitVishal/UniLingual.Api) | One tool for all tongues | TypeScript |
+| [**DebateLeadToSolution**](https://github.com/CodeMitVishal/DebateLeadToSolution.UI) | Online portal to debate society's problems, built as micro UIs on 3 microservices ([API](https://github.com/CodeMitVishal/DebateLeadToSolution.API)) | Angular · .NET |
+| [**GangOfFour.DesignPatterns**](https://github.com/CodeMitVishal/GangOfFour.DesignPatterns) | The classic Gang of Four design patterns in C# | C# |
+| [**KeyVault.NetCore.POC**](https://github.com/CodeMitVishal/KeyVault.NetCore.POC) | Reading secrets safely from Azure Key Vault in .NET | .NET · Azure |
+| [**WebApiHMACAuthentication**](https://github.com/CodeMitVishal/WebApiHMACAuthentication) | HMAC request signing for ASP.NET Web API | C# |
 
 <p align="center">
   <i>"Small daily improvements create extraordinary long-term results."</i><br/><br/>
